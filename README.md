@@ -17,6 +17,7 @@ Seguindo com o Desafio:
 
 ![image](https://github.com/joseaugusto-olliver/power_bi_analyst/assets/115514263/5e8d8fee-e301-414a-a96b-033e93fa2757)
 
+[My WorkSpace - Desafio](https://app.powerbi.com/groups/me/reports/6a1f63c6-5ef5-419e-ad97-3513769ed975/ReportSection?redirectedFromSignup=1&experience=power-bi&bookmarkGuid=Bookmark765176dac5c2647f7c1e)
 
 ## Feito por:
 
